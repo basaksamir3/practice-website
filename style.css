@@ -1,0 +1,106 @@
+body{
+    padding: 0px;
+    margin: 10px;
+    
+
+}
+header{
+    height: 50px;
+    width:100%;
+    background-color: black;
+    color: white;
+    padding: 0px;
+    margin: 0px;
+}
+.logu{
+    height: 100%;
+    float: left;
+    width:45%;
+    margin-left: 50px;
+    text-transform: uppercase;   
+}
+.menu{
+    text-transform: capitalize;
+}
+
+.menu ul li{
+    list-style-type: none;   
+    display: inline;
+    margin: 12px;
+}
+
+.first-section{
+    height: 380px;
+    width: 100%;
+    font-family: 'Staatliches', cursive;
+    
+    width:100%;
+    background-color: #127de0;
+    float: left;
+
+}.vstyle{
+    width:55%;
+    float: left;
+    margin:30px 0px 0px 80px;
+
+}
+.text{
+    width:30%;
+    float: left;
+    margin:5px 0px 0px 30px;
+}
+.text p{
+    font-weight: 100;
+}
+.vstyle{
+    
+    border: 5px solid white;
+}
+
+.btn1{
+    float: left;
+    width: auto;
+    color: white;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 0px 30px;
+    background: linear-gradient(180deg, black, gray);
+}
+.btn2{
+    background: linear-gradient(180deg, black, gray);
+    width: auto;
+    color: white;
+    float: right;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 0px 30px;
+}
+section{
+ height: auto;
+ background-color: #faf9f4;  
+ color:black;
+ float: left;
+ width: 100%;
+    
+}
+.mid-section{
+ float: left;
+ width: 30%;
+ margin-left: 30px;
+
+}
+.mid-section h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+.footer-section{
+    background-color: black;
+    height:200px;
+    color: white;
+   
+}
+.f-style{
+    width: 20%;
+    float: left;
+    margin-left: 50px;
+}
